@@ -12,3 +12,5 @@ pip install lanka_data_mind-nuuuwan
 ## Release History
 
 ### 1.0.0 (PRE-RELEASE)
+* [2021-08-18 07:50AM] Remove Redundent Files
+  * Updated README
