@@ -1,12 +1,12 @@
 import unittest
 
-from lanka_data_mind import run_lanka_data_mind
+from lanka_data_mind import mind
 
 
 class TestCase(unittest.TestCase):
 
     def test_dump(self):
-        self.assertTrue(run_lanka_data_mind._run())
+        self.assertTrue(mind._run())
 
 
 if __name__ == '__main__':
