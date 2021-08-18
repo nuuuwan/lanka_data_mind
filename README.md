@@ -15,3 +15,5 @@ pip install lanka_data_mind-nuuuwan
 * [2021-08-18 07:50AM] Remove Redundent Files
   * Updated README
   * Pre-Merge
+* [2021-08-18 07:52AM] Remove Redundent Files - 2
+  * Updated README
